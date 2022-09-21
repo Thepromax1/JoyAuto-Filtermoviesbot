@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "repository": "https://github.com/Missworld1/Auto-Filtermovies",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
