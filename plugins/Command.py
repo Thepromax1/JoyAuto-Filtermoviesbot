@@ -38,7 +38,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💠 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs 💠', url='https://t.me/firtamilll'),     
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help')],[
-            InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about'), 
+            InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='), 
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''), ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
