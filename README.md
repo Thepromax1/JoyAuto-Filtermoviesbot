@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Missworld1/Auto-Filtermovies">
+<a href="https://heroku.com/deploy?template=https://github.com/Thepromax1/JoyAuto-Filtermoviesbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
